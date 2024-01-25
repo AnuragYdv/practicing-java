@@ -6,7 +6,6 @@ import java.util.stream.Stream;
 
 /**
  * Aimed to solve array programs
- *
  */
 public class ArrayProblems {
     public static void main(String[] args) {
@@ -19,6 +18,9 @@ public class ArrayProblems {
     }
 
     /*
+    Learning 1: You can only use final variable in lambda function (foreach)
+    * */
+    /*
      * Problem statement1:
      * Given an array ‘arr’ of size ‘n’ find the largest element in the array.
      *   Example:
@@ -28,11 +30,17 @@ public class ArrayProblems {
      * */
     public int largesElement(ArrayList inputArray, int n) {
         int lowestElem = (int) inputArray.get(0);
-        for (int i = 0; i < inputArray.size(); i++) {
+        /*for (int i = 0; i < inputArray.size(); i++) {
             if (lowestElem < (int) inputArray.get(i)) {
                 lowestElem = (int) inputArray.get(i);
             }
+        }*/
 
+        /*old for each loop*/
+        for (Object elem : inputArray) {
+            if ((int) elem > lowestElem) {
+                lowestElem = (int) elem;
+            }
         }
         return lowestElem;
     }
