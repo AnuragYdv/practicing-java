@@ -4,7 +4,7 @@ package com.scaledatum;
  * Hello world!
  *
  */
-public class App 
+public class ArrayProblems
 {
     public static void main( String[] args )
     {
