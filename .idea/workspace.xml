@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/ArrayProblems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/ArrayProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/ArrayProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/ArrayProblems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/ArrayProblems.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
