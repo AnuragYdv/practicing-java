@@ -17,16 +17,16 @@ public class Node {
         rightChild = null;
     }
 
-    public void insert(int input) {
+    public void append(int input) {
         if (input < this.data) {
             if (!(this.leftChild == null)) {
-                this.leftChild.insert(input);
+                this.leftChild.append(input);
             } else {
                 this.leftChild = new Node(input);
             }
         } else {
             if (!(this.rightChild == null)) {
-                this.rightChild.insert(input);
+                this.rightChild.append(input);
             } else {
                 this.rightChild = new Node(input);
             }
