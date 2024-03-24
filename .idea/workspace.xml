@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/ConsecutiveSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/SpecialBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/binaryTree/BinarySearchTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/binaryTree/BinarySearchTreeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/binaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/binaryTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/interviews/visa/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
