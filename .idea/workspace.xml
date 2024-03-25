@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/NMeetingOneRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interviews/visa/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interviews/visa/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interviews/visa/TrappingRainWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.com.interviews.visa.Solution">
     <configuration name="BinarySearchTreeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scaledatum.binaryTree.BinarySearchTreeImpl" />
       <module name="java-common-programs" />
@@ -81,7 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.interviews.visa.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviews.visa.Solution" />
       <module name="java-common-programs" />
       <extension name="coverage">
@@ -117,7 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.com.interviews.visa.Solution" />
         <item itemvalue="Application.BinarySearchTreeImpl" />
         <item itemvalue="Application.com.scaledatum.arrayproblems.ArrayProblems" />
         <item itemvalue="JUnit.All in java-common-programs" />
