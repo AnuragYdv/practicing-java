@@ -17,8 +17,15 @@ public class Solution {
 
 /*********************** Problem 3 ***************************************/
 // N-Meeting and One Room
-        int[][] arr={{1,2},{3,4},{0,5},{5,7},{8,9},{5,9}};
-        NMeetingOneRoom mxMeet=new NMeetingOneRoom();
-        mxMeet.maxMeetings(arr);
+//        int[][] arr={{1,2},{3,4},{0,5},{5,7},{8,9},{5,9}};
+//        NMeetingOneRoom mxMeet=new NMeetingOneRoom();
+//        mxMeet.maxMeetings(arr);
+
+/*********************** Problem 4 ***************************************/
+//MAX EVENT ATTENDTED
+        int[][] arr={{1,2},{1,3},{1,4},{1,5},{1,6}};
+        MaxEventAttended mx=new MaxEventAttended();
+        System.out.println(mx.maxEvents(arr));
+
     }
 }
