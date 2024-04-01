@@ -14,8 +14,17 @@ public class Solution {
 //        System.out.println(sum2);
 
         /*Maximum Consecutive Ones*/
-        MaximumConsecutiveOnes maxCO=new MaximumConsecutiveOnes();
-        int[] arr={1,1,1,1,0,1,1,0,1,0,11,1,1,1,1,1,};
-        System.out.println(maxCO.maxConsecOnes(arr));
+//        MaximumConsecutiveOnes maxCO=new MaximumConsecutiveOnes();
+//        int[] arr={1,1,1,1,0,1,1,0,1,0,11,1,1,1,1,1,};
+//        System.out.println(maxCO.maxConsecOnes(arr));
+
+        /*Missing Numbers*/
+        int[] nums = {9,6,4,2,3,5,7,0,1};
+        int[] nums2={3,0,1};
+        int[] nums3={0,1};
+        MissingNumber missingNum= new MissingNumber();
+//        System.out.println(missingNum.missingNumBF(nums));
+        System.out.println(missingNum.missingNumOP2(nums));
+
     }
 }
