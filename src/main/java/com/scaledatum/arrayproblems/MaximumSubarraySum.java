@@ -7,15 +7,26 @@ public class MaximumSubarraySum {
             int sum=0;
             for (int j=i;j<arr.length;j++){
                 sum+=arr[j];
-                System.out.println("Sum : "+sum);
-                System.out.println("Max Sum: "+ maxSum);
-                System.out.println("i : "+i+" ,j : "+j);
                 if(sum>maxSum){
                     maxSum=sum;
                 }
                 }
             }
         return maxSum;
+        }
+        public int maximumSumOptz(int[] arr){
+        int sum=0;
+        int mxSum=Integer.MIN_VALUE;
+        for(int i=0;i< arr.length;i++){
+            sum=sum+arr[i];
+            if(sum<0){
+                sum=0;
+            }
+            if(sum>mxSum){
+                mxSum=sum;
+            }
+        }
+        return mxSum;
         }
 
     }

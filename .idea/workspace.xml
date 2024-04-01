@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/MaximumSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,16 +214,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a new Java Project  for Practicing" />
     <option name="LAST_COMMIT_MESSAGE" value="Creating a new Java Project  for Practicing" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/MaximumSubarraySum.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
