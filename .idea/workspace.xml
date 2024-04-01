@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
