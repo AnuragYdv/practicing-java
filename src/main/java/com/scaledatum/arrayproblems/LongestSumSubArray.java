@@ -1,4 +1,7 @@
 package com.scaledatum.arrayproblems;
+
+import java.util.HashMap;
+
 /*
 * https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399
 *

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c58550a-ccad-48dd-bee2-3aba0cb5044b" name="Changes" comment="Creating a new Java Project  for Practicing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/LongestSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaledatum/arrayproblems/LongestSumSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +69,26 @@
       <recent name="com.scaledatum.arrayproblems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.scaledatum.arrayproblems.Solution">
+  <component name="RunManager" selected="Application.CommonRecursionUnderstanding">
     <configuration name="BinarySearchTreeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scaledatum.binaryTree.BinarySearchTreeImpl" />
       <module name="java-common-programs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.scaledatum.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonRecursionUnderstanding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaledatum.recursionProblem.CommonRecursionUnderstanding" />
+      <module name="java-common-programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaledatum.recursionProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.scaledatum.arrayproblems.ArrayProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.scaledatum.arrayproblems.ArrayProblems" />
-      <module name="java-common-programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.scaledatum.arrayproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.scaledatum.arrayproblems.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scaledatum.arrayproblems.Solution" />
       <module name="java-common-programs" />
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonRecursionUnderstanding" />
         <item itemvalue="Application.com.scaledatum.arrayproblems.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.interviews.visa.Solution" />
         <item itemvalue="Application.BinarySearchTreeImpl" />
-        <item itemvalue="Application.com.scaledatum.arrayproblems.ArrayProblems" />
       </list>
     </recent_temporary>
   </component>
